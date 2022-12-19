@@ -7,16 +7,12 @@
 
 따릉이 데이터는 [서울 열린데이터광장]([https://data.seoul.go.kr/](https://data.seoul.go.kr/)), 기후 데이터는 [기상자료개방포털]([https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do))를 사용하였다.
 
-사용한 모델은 
-
-[https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do](https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do)
-
-[https://data.seoul.go.kr/dataList/OA-15245/S/1/datasetView.do#](https://data.seoul.go.kr/dataList/OA-15245/S/1/datasetView.do#)
+사용한 모델은 lgbm 이다.
 
 
 ## Data
 
-- [서울시 따릉이대여소 마스터 정보]([https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do](https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do))
+- [서울시 따릉이대여소 마스터 정보](https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do)
     
     서울시 따릉이대여소에 대한 대여소 ID, 역 주소, 좌표 정보
     
@@ -25,7 +21,7 @@
 
 
 
-- [서울시 공공자전거 이용정보(시간대별)]([https://data.seoul.go.kr/dataList/OA-15245/S/1/datasetView.do#](https://data.seoul.go.kr/dataList/OA-15245/S/1/datasetView.do#))
+- [서울시 공공자전거 이용정보(시간대별)](https://data.seoul.go.kr/dataList/OA-15245/S/1/datasetView.do#)
     
     대여일시, 대여시간, 대여소번호, 대여소명, 정기권유무, 성별, 연령대, 탄소량, 이동거리, 이동시간 정보
     
@@ -34,7 +30,7 @@
 
 
 
-- [서울시 날씨 데이터]([https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do))
+- [서울시 날씨 데이터](https://data.kma.go.kr/cmmn/main.do)
 
 
 
