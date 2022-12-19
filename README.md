@@ -39,6 +39,9 @@ Data/Time 폴더 만들어서 csv 넣어놓기!
 
 Data/Weather 폴더 만들어서 csv 넣어놓기!
 
+## Our final data
+https://drive.google.com/file/d/1OtzxxUcjfaOVLQrMzTx-cZOpBWYZQhZl/view?usp=share_link
+
 데이터 가공한 거 설명하기
 
 ## Model
