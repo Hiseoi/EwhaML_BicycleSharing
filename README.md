@@ -5,12 +5,14 @@
 
 위 프로젝트의 목적은 서울시 송파구 따릉이 대여량을 예측하는 것이다.
 
-따릉이 데이터는 [서울 열린데이터광장]([https://data.seoul.go.kr/](https://data.seoul.go.kr/)), 기후 데이터는 [기상자료개방포털]([https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do))를 사용하였다. 2021년 4월~2022년 3월까지의 데이터이다.
+따릉이 데이터는 [서울 열린데이터광장]([https://data.seoul.go.kr/](https://data.seoul.go.kr/)), 기후 데이터는 [기상자료개방포털]([https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do))를 사용하였다. 
 
 사용한 모델은 lgbm 이다.
 
 
 ## Data
+
+- 2021년 4월~2022년 3월까지의 데이터이다.
 
 - [서울시 따릉이대여소 마스터 정보](https://data.seoul.go.kr/dataList/OA-21235/S/1/datasetView.do)
     
