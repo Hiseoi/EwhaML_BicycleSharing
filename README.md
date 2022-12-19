@@ -47,7 +47,7 @@ https://drive.google.com/file/d/1OtzxxUcjfaOVLQrMzTx-cZOpBWYZQhZl/view?usp=share
     
 - 정류소별_성능_비교를_통해_Outlier_찾기
     
-    잠실동과 방이동에서 error값이 가장 높은 outlier 정류소 찾기
+    잠실동과 방이동에서 모델의 error값이 가장 높은 outlier 정류소 찾기
     
 - 대여소별_시간대별_예측
     - 잠실동과 방이동에서 가장 대여량이 높은 정류소를 기준으로 여러 모델 성능 비교, Data preprocessing이 예측 결과에 미치는 영향 비교
