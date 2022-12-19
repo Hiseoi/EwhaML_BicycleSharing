@@ -7,7 +7,7 @@
 
 따릉이 데이터는 [서울 열린데이터광장]([https://data.seoul.go.kr/](https://data.seoul.go.kr/)), 기후 데이터는 [기상자료개방포털]([https://data.kma.go.kr/cmmn/main.do](https://data.kma.go.kr/cmmn/main.do))를 사용하였다. 
 
-사용한 모델은 lgbm 이다.
+사용한 모델은 lgbm 이고, 사용한 평가지표는 RMSLE, R2 score이다.
 
 
 ## Data
